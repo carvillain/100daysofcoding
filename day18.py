@@ -5,4 +5,4 @@ def find_admin(lst, lang):
         if item['language'] == lang and item['githubAdmin'] == 'yes':
             admins_list.append(item)
     
-    return admins_list
+    return admins_list 

@@ -19,6 +19,4 @@ def scale(strng, k, v):
             rep -= 1    
         
     
-    
-    
     return scaled_string.rstrip("\n")
