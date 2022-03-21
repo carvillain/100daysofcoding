@@ -33,5 +33,4 @@ def play_pass(s, n):
         
         index += 1
             
-    
     return "".join(passphrase_list[::-1])
